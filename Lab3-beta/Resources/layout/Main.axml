@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+	<TextView
+		android:text="Quote:"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/quoteTextView" />
+	<TextView
+		android:text="Person"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/quoteTextViewPerson" />
+	<Button
+		android:text="Next Quote"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/nextButton"
+		android:layout_marginRight="0.0dp" />
+	<Button
+		android:text="Enter New Quote"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/enterQuote"
+		android:layout_marginRight="0.0dp" />
+	<TextView
+		android:text="Your Quote:"
+		android:textAppearance="?android:attr/textAppearanceSmall"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/textView1"
+		android:layout_marginBottom="7.5dp" />
+	<EditText
+		android:id="@+id/newText"
+		android:layout_width="match_parent"
+		android:imeOptions="actionGo"
+		android:inputType="text"
+		android:layout_height="40.5dp" />
+	<TextView
+		android:text="By:"
+		android:textAppearance="?android:attr/textAppearanceSmall"
+		android:layout_width="332.5dp"
+		android:layout_height="wrap_content"
+		android:id="@+id/quoteTextView" />
+	<EditText
+		android:id="@+id/byText"
+		android:layout_width="match_parent"
+		android:imeOptions="actionGo"
+		android:inputType="text"
+		android:layout_height="43.0dp" />
+	<Space
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:id="@+id/space1"
+		android:minHeight="20dp" />
+</LinearLayout>

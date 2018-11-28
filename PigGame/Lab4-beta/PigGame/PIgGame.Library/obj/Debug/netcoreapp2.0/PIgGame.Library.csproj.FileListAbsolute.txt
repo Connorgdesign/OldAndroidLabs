@@ -1,0 +1,8 @@
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PIgGame.Library\bin\Debug\netcoreapp2.0\PIgGame.Library.deps.json
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PIgGame.Library\bin\Debug\netcoreapp2.0\PIgGame.Library.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PIgGame.Library\bin\Debug\netcoreapp2.0\PIgGame.Library.pdb
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PIgGame.Library\obj\Debug\netcoreapp2.0\PIgGame.Library.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PIgGame.Library\obj\Debug\netcoreapp2.0\PIgGame.Library.AssemblyInfoInputs.cache
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PIgGame.Library\obj\Debug\netcoreapp2.0\PIgGame.Library.AssemblyInfo.cs
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PIgGame.Library\obj\Debug\netcoreapp2.0\PIgGame.Library.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PIgGame.Library\obj\Debug\netcoreapp2.0\PIgGame.Library.pdb

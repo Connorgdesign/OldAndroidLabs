@@ -1,0 +1,17 @@
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\PigGame.Test.deps.json
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\PigGame.Test.runtimeconfig.json
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\PigGame.Test.runtimeconfig.dev.json
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\PigGame.Test.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\PigGame.Test.pdb
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\PIgGame.Library.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\bin\Debug\netcoreapp2.0\PIgGame.Library.pdb
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\obj\Debug\netcoreapp2.0\PigGame.Test.csprojAssemblyReference.cache
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\obj\Debug\netcoreapp2.0\PigGame.Test.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\obj\Debug\netcoreapp2.0\PigGame.Test.AssemblyInfoInputs.cache
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\obj\Debug\netcoreapp2.0\PigGame.Test.AssemblyInfo.cs
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\obj\Debug\netcoreapp2.0\PigGame.Test.csproj.CopyComplete
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\obj\Debug\netcoreapp2.0\PigGame.Test.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Test\obj\Debug\netcoreapp2.0\PigGame.Test.pdb

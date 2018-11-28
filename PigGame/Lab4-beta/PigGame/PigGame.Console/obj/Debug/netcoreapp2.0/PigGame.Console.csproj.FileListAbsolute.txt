@@ -1,0 +1,14 @@
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\bin\Debug\netcoreapp2.0\PigGame.Console.deps.json
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\bin\Debug\netcoreapp2.0\PigGame.Console.runtimeconfig.json
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\bin\Debug\netcoreapp2.0\PigGame.Console.runtimeconfig.dev.json
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\bin\Debug\netcoreapp2.0\PigGame.Console.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\bin\Debug\netcoreapp2.0\PigGame.Console.pdb
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\bin\Debug\netcoreapp2.0\PIgGame.Library.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\bin\Debug\netcoreapp2.0\PIgGame.Library.pdb
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\obj\Debug\netcoreapp2.0\PigGame.Console.csprojAssemblyReference.cache
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\obj\Debug\netcoreapp2.0\PigGame.Console.csproj.CoreCompileInputs.cache
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\obj\Debug\netcoreapp2.0\PigGame.Console.AssemblyInfoInputs.cache
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\obj\Debug\netcoreapp2.0\PigGame.Console.AssemblyInfo.cs
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\obj\Debug\netcoreapp2.0\PigGame.Console.csproj.CopyComplete
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\obj\Debug\netcoreapp2.0\PigGame.Console.dll
+C:\Users\Cody Connor\Desktop\Android labs\PigGame\Lab4-beta\PigGame\PigGame.Console\obj\Debug\netcoreapp2.0\PigGame.Console.pdb
